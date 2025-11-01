@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "description": "Enter your EcoFlow API credentials",
+        "data": {
+          "access_key": "Access Key",
+          "secret_key": "Secret Key", 
+          "device_sn": "Device Serial Number"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to EcoFlow API",
+      "unknown": "Unexpected error occurred"
+    }
+  }
+}

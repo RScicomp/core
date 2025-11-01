@@ -163,6 +163,7 @@ FLOWS = {
         "eafm",
         "easyenergy",
         "ecobee",
+        "ecoflow",
         "ecoforest",
         "econet",
         "ecovacs",
